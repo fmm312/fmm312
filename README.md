@@ -6,4 +6,4 @@ I have experience with web and mobile application programming. Currently my focu
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/felipemenezesmagalhaes)](https://www.linkedin.com/in/felipemenezesmagalhaes)
 
-[![Instagram Badge]https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/felipemenezes312/?hl=pt-br)](https://www.instagram.com/felipemenezes312/?hl=pt-br)
+<img src="https://img.shields.io/badge/<handle>%20-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white"/>
