@@ -4,7 +4,8 @@ Software Enginner @Somapay
 
 [![Website](https://img.shields.io/badge/Website-red.svg?logo=Coveralls)]()
 [![Linkedin](https://img.shields.io/badge/Linkedin-blue.svg?logo=linkedin)](https://www.linkedin.com/in/felipemenezesmagalhaes/)
-[![Open Source? Yes!](https://badgen.net/badge/Open%20Source%20%3F/Yes%21/1abc9c?icon=github)]()
+[![Email](https://img.shields.io/badge/Email-important.svg?logo=Mail.ru)](mailto:fmm312@gmail.com)
+[![Open Source? Yes!](https://badgen.net/badge/Open%20Source%20%3F/Yes%21/1abc9c?icon=github)](https://github.com/fmm312?tab=repositories)
 
 I'm a guy who loves working with challenging and creative projects. I love to develop solutions through technology and positively impact people, I am in constant search for best practices and also trying new things.
 
