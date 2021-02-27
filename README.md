@@ -10,6 +10,6 @@ I'm a guy who loves working with challenging and creative projects. I love to de
 
 I am a JavaScript enthusiast and my specialty is front-end development using React / React Native. I also have aptitude for back end development with Node.js, in addition to solid knowledge in UX, interface design and systems usability.
 
-I am currently studying some interesting frameworks and skills in order to evolve as a professional, some of them are: Next.js, Expo, Context API, Node.js, Express.js and I have been looking to advance in the English language.
+Currently in my spare time, I have dedicated myself to studying some interesting frameworks and skills to increase my knowledge and evolve as a professional, such as: Next.js, Expo, Context API, Node, Express and I have tried to advance in the English language.
 
 :rocket: Let's code! 
