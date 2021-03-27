@@ -20,7 +20,6 @@ I'm a guy who loves working with challenging and creative projects. I love to de
 ## Currently in my spare time, I have dedicated myself to studying 
 
 * Next.js
-* Expo
 * React Context API
-* Back end development with Node.js
-* Have been trying to advance in the English language.
+* Back end development
+* English language
