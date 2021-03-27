@@ -11,7 +11,7 @@ I'm a guy who loves working with challenging and creative projects. I love to de
 
 :computer: I'm a JavaScript enthusiast
 
-:fire: My specialty is front-end development using React/React Native, TypeScript, styled-components and much more
+:fire: My specialty is front-end development using React, React Native, TypeScript, styled-components and much more
 
 :star: I have solid knowledge in UX, interface design and systems usability
 
