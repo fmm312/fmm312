@@ -9,11 +9,11 @@ Software Enginner @Somapay
 ## About me
 I'm a guy who loves working with challenging and creative projects. I love to develop solutions through technology and positively impact people, I am in constant search for best practices and also trying new things.
 
-:computer: I am a JavaScript enthusiast
+:computer: I'm a JavaScript enthusiast
 
 :fire: My specialty is front-end development using React/React Native, TypeScript, styled-components and much more
 
-:star: I have solid knowledge in UX, interface design and systems usability.
+:star: I have solid knowledge in UX, interface design and systems usability
 
 :boom: I also have aptitude for back end development with Node.js
 
