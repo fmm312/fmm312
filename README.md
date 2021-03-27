@@ -13,9 +13,9 @@ I'm a guy who loves working with challenging and creative projects. I love to de
 
 :fire: My specialty is front-end development using React/React Native, TypeScript, styled-components and much more
 
-:star: In addition to solid knowledge in UX, interface design and systems usability.
+:star: I have solid knowledge in UX, interface design and systems usability.
 
-:boom: I also have aptitude for back end development with Node.js, 
+:boom: I also have aptitude for back end development with Node.js
 
 ## In my spare time, I'm studying
 
