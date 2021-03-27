@@ -16,4 +16,10 @@ I'm a guy who loves working with challenging and creative projects. I love to de
 
 :boom: I also have aptitude for back end development with Node.js, 
 
-:rocket: Currently in my spare time, I have dedicated myself to studying Next.js, Expo, Context API, Node, Express and have been trying to advance in the English language.
+:rocket: Currently in my spare time, I have dedicated myself to studying 
+
+* Next.js
+* Expo
+* React Context API
+* Back end development with Node.js
+* Have been trying to advance in the English language.
