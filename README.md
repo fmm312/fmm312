@@ -17,7 +17,7 @@ I'm a guy who loves working with challenging and creative projects. I love to de
 
 :boom: I also have aptitude for back end development with Node.js, 
 
-## Currently in my spare time, I have dedicated myself to studying 
+## In my spare time, I'm studying
 
 * Next.js
 * React Context API
