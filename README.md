@@ -17,6 +17,8 @@ I'm a guy who loves working with challenging and creative projects. I love to de
 
 :rocket: I also have aptitude for back end development with Node.js
 
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fmm312&hide=css" />
+
 ## In my spare time, I'm studying
 
 * Next.js
@@ -24,5 +26,3 @@ I'm a guy who loves working with challenging and creative projects. I love to de
 * Automated tests and TDD
 * Back end development (Node.js)
 * English language
-
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fmm312&hide=css" />
