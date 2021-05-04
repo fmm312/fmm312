@@ -19,9 +19,9 @@ I'm a guy who loves working with challenging and creative projects. I love to de
 
 <!-- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fmm312&hide=css" /> -->
 
-## In my spare time, I'm studying
+<!-- ## In my spare time, I'm studying -->
 
-* Next.js
+<!--* Next.js
 * Automated tests and TDD
 * Back end development (Node.js)
-* English language
+* English language -->
