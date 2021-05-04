@@ -22,7 +22,6 @@ I'm a guy who loves working with challenging and creative projects. I love to de
 ## In my spare time, I'm studying
 
 * Next.js
-* React Context API
 * Automated tests and TDD
 * Back end development (Node.js)
 * English language
