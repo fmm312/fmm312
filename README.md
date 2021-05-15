@@ -1,5 +1,3 @@
-# Felipe Menezes
-
 <!-- [![Website](https://img.shields.io/badge/Website-red.svg?logo=Coveralls)]()
 [![Linkedin](https://img.shields.io/badge/Linkedin-blue.svg?logo=linkedin)](https://www.linkedin.com/in/felipemenezesmagalhaes/)
 [![Email](https://img.shields.io/badge/Email-important.svg?logo=Mail.ru)](mailto:fmm312@gmail.com) -->
