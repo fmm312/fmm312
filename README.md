@@ -27,5 +27,5 @@ I'm a guy who loves working with challenging and creative projects. I love to de
 
 * Next.js
 * Automated tests and TDD
-* Back end development (Node.js)
+* Back end development
 * English language
