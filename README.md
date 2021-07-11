@@ -9,7 +9,7 @@
   <img alt="Night Coding" src="https://drive.google.com/uc?export=view&id=1kv0O0JFzAfFPQBw_m77I7L-nJNYzWSZC" align="right"/>
 </div>
 
-<span>&#x1f1e7;&#x1f1f7;</span> I am from Fortaleza, Brazil.
+<span>&#x1f1e7;&#x1f1f7;</span> Fortaleza, Brazil.
 
 :computer: I'm a JavaScript enthusiast
 
