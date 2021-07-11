@@ -6,7 +6,7 @@
 ## About me
 <!-- I'm a guy who loves working with challenging and creative projects. I love to develop solutions through technology and positively impact people, I am in constant search for best practices and also trying new things.-->
 <div>
-  <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
+  <img alt="Night Coding" src="https://drive.google.com/uc?export=view&id=1kv0O0JFzAfFPQBw_m77I7L-nJNYzWSZC" align="right"/>
 </div>
 
 <span>&#x1f1e7;&#x1f1f7;</span> I am from Fortaleza, Brazil.
@@ -23,7 +23,7 @@
 
 ## My current stack
 
-<img src="https://drive.google.com/uc?export=view&id=1X3EB6zP4a-AJq-cfTNM4VzEckgTla_oZ" alt="drawing" align="left" width="40"/><div style="width:20px;" /><img src="https://drive.google.com/uc?export=view&id=17QFSDqLYJo-vJcSrq0yk9x3vPMoZz3st" align="left" alt="drawing" width="40"/><div style="width:20px;" /><img src="https://drive.google.com/uc?export=view&id=1gxHbh5J_3Xgm9NailJYpkZr6rk3D6QN_" align="left" alt="drawing" width="40"/><div style="width:20px;" /><img src="https://drive.google.com/uc?export=view&id=1Vkf-PqFrpjGzzLSqmnR_TdlK4j4N3BDd" align="left" alt="drawing" width="40"/><div style="width:20px;" /><img src="https://drive.google.com/uc?export=view&id=1Mz2OKnrPLRZJH0rn5Lq1nDSyv32Ak5VR" align="left" alt="drawing" width="40"/><div style="width:20px;" /><img src="https://drive.google.com/uc?export=view&id=19nH9wHFPj5hlaoR97O9fBgL9ZI77C8Ya" align="left" alt="drawing" width="40"/><div style="width:20px;" /><img src="https://drive.google.com/uc?export=view&id=1qRBAWB7Vr0ahSTSYhq76WTQYY8MSIpVk" align="left" alt="drawing" width="40"/><br /><br />
+<img src="https://drive.google.com/uc?export=view&id=1X3EB6zP4a-AJq-cfTNM4VzEckgTla_oZ" alt="drawing" align="left" width="40"/><div style="width:20px;" /><img src="https://drive.google.com/uc?export=view&id=17QFSDqLYJo-vJcSrq0yk9x3vPMoZz3st" align="left" alt="drawing" width="40"/><div style="width:20px;" /><img src="https://drive.google.com/uc?export=view&id=1gxHbh5J_3Xgm9NailJYpkZr6rk3D6QN_" align="left" alt="drawing" width="40"/><div style="width:20px;" /><img src="https://drive.google.com/uc?export=view&id=1Vkf-PqFrpjGzzLSqmnR_TdlK4j4N3BDd" align="left" alt="drawing" width="40"/><div style="width:20px;" /><img src="https://drive.google.com/uc?export=view&id=1Mz2OKnrPLRZJH0rn5Lq1nDSyv32Ak5VR" align="left" alt="drawing" width="40"/><div style="width:20px;" /><img src="https://drive.google.com/uc?export=view&id=19nH9wHFPj5hlaoR97O9fBgL9ZI77C8Ya" align="left" alt="drawing" width="40"/><div style="width:20px;" /><img src="https://drive.google.com/uc?export=view&id=1qRBAWB7Vr0ahSTSYhq76WTQYY8MSIpVk" align="left" alt="drawing" width="40"/><img src="https://drive.google.com/uc?export=view&id=1RN9YB-UwB7GV22NGpCNtj4cU3FlRbRNQ" align="left" alt="drawing" width="40"/><br /><br />
 
 ## Latest Blog Post
 - [Princípios de escalabilidade em projetos Front-end](https://medium.com/@fmm312/princ%C3%ADpios-de-escalabilidade-em-projetos-front-end-921d3750939e) 
