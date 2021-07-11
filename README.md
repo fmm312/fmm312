@@ -9,16 +9,17 @@
   <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 </div>
 
+<span>&#x1f1e7;&#x1f1f7;</span> I am from Fortaleza, Brazil.
+
 :computer: I'm a JavaScript enthusiast
 
-:fire: My specialty is front-end development using React and React Native
+:fire: My specialty is Front-end development using React and React Native
 
 :star: Passionate about clean code, usability and UX.
 
 :rocket: I also have aptitude for back end development with Node.js
 
 <!-- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fmm312&hide=css" /> -->
-<br />
 
 ## My current stack
 
