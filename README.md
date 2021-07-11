@@ -29,11 +29,11 @@
 - [Princípios de escalabilidade em projetos Front-end](https://medium.com/@fmm312/princ%C3%ADpios-de-escalabilidade-em-projetos-front-end-921d3750939e) 
 
 
-## In my spare time, I'm studying
+<!--## In my spare time, I'm studying
 
 * Next.js
 * Automated tests and TDD
-* English language
+* English language-->
 
 
 ## GitHub Analytics
