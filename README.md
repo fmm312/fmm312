@@ -33,7 +33,6 @@
 
 * Next.js
 * Automated tests and TDD
-* Back end development
 * English language
 
 
