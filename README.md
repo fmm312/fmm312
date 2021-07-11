@@ -5,7 +5,7 @@
 
 ## About me
 <!-- I'm a guy who loves working with challenging and creative projects. I love to develop solutions through technology and positively impact people, I am in constant search for best practices and also trying new things.-->
-<div >
+<div>
   <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 </div>
 
@@ -18,6 +18,7 @@
 :rocket: I also have aptitude for back end development with Node.js
 
 <!-- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fmm312&hide=css" /> -->
+<br />
 
 ## My current stack
 
