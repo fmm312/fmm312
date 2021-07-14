@@ -21,13 +21,13 @@
 
 <!-- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fmm312&hide=css" /> -->
 
-## My current stack
+## Current stack
 
 <img src="https://github.com/fmm312/fmm312/blob/c5379dd1f90002923061637da5c218eb0357ee71/assets/html.png" alt="drawing" align="left" width="40"/><div style="width:20px;" /><img src="https://github.com/fmm312/fmm312/blob/c5379dd1f90002923061637da5c218eb0357ee71/assets/css.png" align="left" alt="drawing" width="40"/><div style="width:20px;" /><img src="https://github.com/fmm312/fmm312/blob/c5379dd1f90002923061637da5c218eb0357ee71/assets/javascript.png" align="left" alt="drawing" width="40"/><div style="width:20px;" />
 <img src="https://github.com/fmm312/fmm312/blob/c5379dd1f90002923061637da5c218eb0357ee71/assets/react.png" align="left" alt="drawing" width="40"/>
 <div style="width:20px;" /><img src="https://github.com/fmm312/fmm312/blob/c5379dd1f90002923061637da5c218eb0357ee71/assets/typescript.png" align="left" alt="drawing" width="40"/><div style="width:20px;" /><div style="width:20px;" /><img src="https://github.com/fmm312/fmm312/blob/6f706dc9bf0b0bdb96fc7dee6e5440e80db422e4/assets/material-ui.png" align="left" alt="drawing" width="40"/><div style="width:20px;" /><br /><br /><br /><img src="https://github.com/fmm312/fmm312/blob/c5379dd1f90002923061637da5c218eb0357ee71/assets/nodejs.png" align="left" alt="drawing" width="40"/><div style="width:20px;" /><img src="https://github.com/fmm312/fmm312/blob/c5379dd1f90002923061637da5c218eb0357ee71/assets/redux.png" align="left" alt="drawing" width="40"/><img src="https://github.com/fmm312/fmm312/blob/c5379dd1f90002923061637da5c218eb0357ee71/assets/git.png" align="left" alt="drawing" width="40"/><br /><br />
 
-## Latest Blog Post
+## Latest articles
 - [Princípios de escalabilidade em projetos Front-end](https://medium.com/@fmm312/princ%C3%ADpios-de-escalabilidade-em-projetos-front-end-921d3750939e) 
 
 
