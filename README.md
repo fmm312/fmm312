@@ -27,6 +27,12 @@
 <img src="https://github.com/fmm312/fmm312/blob/c5379dd1f90002923061637da5c218eb0357ee71/assets/react.png" align="left" alt="drawing" width="40"/>
 <div style="width:20px;" /><img src="https://github.com/fmm312/fmm312/blob/c5379dd1f90002923061637da5c218eb0357ee71/assets/typescript.png" align="left" alt="drawing" width="40"/><div style="width:20px;" /><div style="width:20px;" /><img src="https://github.com/fmm312/fmm312/blob/6f706dc9bf0b0bdb96fc7dee6e5440e80db422e4/assets/material-ui.png" align="left" alt="drawing" width="40"/><div style="width:20px;" /><br /><br /><br /><img src="https://github.com/fmm312/fmm312/blob/c5379dd1f90002923061637da5c218eb0357ee71/assets/nodejs.png" align="left" alt="drawing" width="40"/><div style="width:20px;" /><img src="https://github.com/fmm312/fmm312/blob/c5379dd1f90002923061637da5c218eb0357ee71/assets/redux.png" align="left" alt="drawing" width="40"/><img src="https://github.com/fmm312/fmm312/blob/c5379dd1f90002923061637da5c218eb0357ee71/assets/git.png" align="left" alt="drawing" width="40"/><br /><br />
 
+
+## Main projects
+- [My website](https://github.com/fmm312/my-website) - My personal website made with Next.js, TypeScript and styled-components. It has a minimalist design, clean and with animations.
+- [Oceanic React UI](https://github.com/fmm312/oceanic-react-ui) - A Design System for creating UI with ReactJS
+- [Oceanic dashboard template](https://github.com/fmm312/oceanic-dashboard-template) - An open source dashboard template made with the Oceanic design system
+
 ## Latest articles
 - [Princípios de escalabilidade em projetos Front-end](https://medium.com/@fmm312/princ%C3%ADpios-de-escalabilidade-em-projetos-front-end-921d3750939e) 
 
