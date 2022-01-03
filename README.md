@@ -39,7 +39,7 @@
 - [Oceanic](https://github.com/fmm312/oceanic-react-ui) - A Design System for creating UI with ReactJS
 - [Oceanic dashboard template](https://github.com/fmm312/oceanic-dashboard-template) - An open source dashboard template made with the Oceanic design system
 
-## Latest articles
+## Blog posts
 - [Princípios de escalabilidade em projetos Front-end](https://medium.com/@fmm312/princ%C3%ADpios-de-escalabilidade-em-projetos-front-end-921d3750939e) (PT-BR :brazil:)
 
 
