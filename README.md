@@ -43,8 +43,7 @@ I'm a guy who loves working with challenging and creative projects. I love to de
 #### A little more about me...  
 
 ```javascript
-const aboutMt = {
-    askMeAbout: ["Programming", "Tech", "Front-end"],
+const aboutMe = {
     code: ["Javascript", "TypeScript", HTML. CSS],
     technologies: {
         frontEnd: {
@@ -61,27 +60,20 @@ const aboutMt = {
     },
     git: ["Github", "Gitlab", "Bitbucket"],
     agile: ["Scrum", "Kanban"],
-    others: [
-      "Clean code",
-      "Mobile First",
-      "UX/UI",
-      "Deploy",
-      "Cross-browser",
-      "Resposive Design",
-      "Design System"
-    ]
+    softSkills: ["Responsibility", "Team Work", "Critical Sense", "Calm"],
+    others: ["Clean code", "Mobile First", "UX/UI", "Deploy", "Cross-browser", "Resposive Design", "Design System"]
 };
 ```
 <hr />
 
-
+<!-- 
 #### My main code skills
 
 <img src="https://github.com/fmm312/fmm312/blob/c5379dd1f90002923061637da5c218eb0357ee71/assets/html.png" alt="drawing" align="left" width="40"/><div style="width:20px;" /><img src="https://github.com/fmm312/fmm312/blob/c5379dd1f90002923061637da5c218eb0357ee71/assets/css.png" align="left" alt="drawing" width="40"/><div style="width:20px;" /><img src="https://github.com/fmm312/fmm312/blob/c5379dd1f90002923061637da5c218eb0357ee71/assets/javascript.png" align="left" alt="drawing" width="40"/><div style="width:20px;" />
 <img src="https://github.com/fmm312/fmm312/blob/c5379dd1f90002923061637da5c218eb0357ee71/assets/react.png" align="left" alt="drawing" width="40"/>
 <div style="width:20px;" /><img src="https://github.com/fmm312/fmm312/blob/c5379dd1f90002923061637da5c218eb0357ee71/assets/typescript.png" align="left" alt="drawing" width="40"/><div style="width:20px;" /><br /><br /><br /><img src="https://github.com/fmm312/fmm312/blob/c5379dd1f90002923061637da5c218eb0357ee71/assets/nodejs.png" align="left" alt="drawing" width="40"/><div style="width:20px;" /><img src="https://github.com/fmm312/fmm312/blob/c5379dd1f90002923061637da5c218eb0357ee71/assets/redux.png" align="left" alt="drawing" width="40"/><img src="https://github.com/fmm312/fmm312/blob/c5379dd1f90002923061637da5c218eb0357ee71/assets/git.png" align="left" alt="drawing" width="40"/><br /><br />
 
-<hr />
+<hr /> -->
 
 
 #### My favorite projects
