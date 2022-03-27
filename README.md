@@ -112,3 +112,5 @@ const felipe = {
 - [Linkedin](https://www.linkedin.com/in/felipemenezesmagalhaes/) - Network where I write about my professional career
 - [Medium](https://medium.com/@fmm312) - Here is where I post my articles
 - [Website](https://felipedeveloper.vercel.app/) - My personal website/portfolio
+
+![Snake animation](https://github.com/oramonviana/oramonviana/blob/output/github-contribution-grid-snake.svg)
