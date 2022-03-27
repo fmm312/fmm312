@@ -44,7 +44,7 @@ I'm a guy who loves working with challenging and creative projects. I love to de
 
 ```javascript
 const felipe = {
-    code: ["Javascript", "TypeScript", HTML. CSS],
+    code: ["Javascript", "TypeScript", "HTML", "CSS"],
     frameworks: {
         frontEnd: {
             js: ["React", "Next", "Redux"],
@@ -58,7 +58,7 @@ const felipe = {
         },
         misc: ["Firebase", "Websokets", "Storybook", "jQuery", "Sass", "CSS-in-JS", "Jest"]
     },
-    softSkills: ["Responsibility", "Team Work", "Critical Sense", "Calm"],
+    softSkills: ["Responsibility", "Team Work", Sense of Ownership", "Calm"],
     others: ["Clean Code", "Mobile First", "UX", "Responsiveness", "Agile", "Git"]
 };
 ```
