@@ -59,7 +59,7 @@ const felipe = {
         misc: ["Firebase", "Websokets", "Storybook", "jQuery", "Sass", "CSS-in-JS", "Jest"]
     },
     softSkills: ["Responsibility", "Team Work", "Critical Sense", "Calm"],
-    others: ["Clean code", "Mobile First", "UX/UI", "Deploy", "Cross-browser", "Resposive Design", "Design System", "Agile", "Git"]
+    others: ["Clean Code", "Mobile First", "UX", "Responsiveness", "Agile", "Git"]
 };
 ```
 <hr />
