@@ -43,9 +43,9 @@ I'm a guy who loves working with challenging and creative projects. I love to de
 #### A little more about me...  
 
 ```javascript
-const aboutMe = {
+const felipe = {
     code: ["Javascript", "TypeScript", HTML. CSS],
-    technologies: {
+    frameworks: {
         frontEnd: {
             js: ["React", "Next", "Redux"],
             css: ["Material Design", "Bootstrap"],
@@ -58,10 +58,8 @@ const aboutMe = {
         },
         misc: ["Firebase", "Websokets", "Storybook", "jQuery", "Sass", "CSS-in-JS", "Jest"]
     },
-    git: ["Github", "Gitlab", "Bitbucket"],
-    agile: ["Scrum", "Kanban"],
     softSkills: ["Responsibility", "Team Work", "Critical Sense", "Calm"],
-    others: ["Clean code", "Mobile First", "UX/UI", "Deploy", "Cross-browser", "Resposive Design", "Design System"]
+    others: ["Clean code", "Mobile First", "UX/UI", "Deploy", "Cross-browser", "Resposive Design", "Design System", "Agile", "Git"]
 };
 ```
 <hr />
