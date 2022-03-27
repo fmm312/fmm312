@@ -26,7 +26,7 @@ I'm a guy who loves working with challenging and creative projects. I love to de
 <div>
   <img alt="Night Coding" src="https://github.com/fmm312/fmm312/blob/c5379dd1f90002923061637da5c218eb0357ee71/assets/Night-Coding.gif" align="right"/>
   
-  #### Some info about me:
+  #### About me:
 
 - <span>&#x1f1e7;&#x1f1f7;</span> Fortaleza, Brazil.
 - :computer: I'm a JavaScript enthusiast.
@@ -40,18 +40,48 @@ I'm a guy who loves working with challenging and creative projects. I love to de
 
 <hr />
 
+#### A little more about me...  
+
+```javascript
+const aboutMt = {
+    askMeAbout: ["Programming", "Tech", "Front-end"],
+    code: ["Javascript", "TypeScript", HTML. CSS],
+    technologies: {
+        frontEnd: {
+            js: ["React", "Next", "Redux"],
+            css: ["Material Design", "Bootstrap"],
+        },
+        backEnd: {
+            js: ["Node"],
+        },
+        mobile: {
+            js: ["React Native"],
+        },
+        misc: ["Firebase", "Websokets", "Storybook", "jQuery", "Sass", "CSS-in-JS", "Jest"]
+    },
+    git: ["Github", "Gitlab", "Bitbucket"],
+    agile: ["Scrum", "Kanban"],
+    others: [
+      "Clean code",
+      "Mobile First",
+      "UX/UI",
+      "Deploy",
+      "Cross-browser",
+      "Resposive Design",
+      "Design System"
+    ]
+};
+```
+<hr />
+
+
 #### My main code skills
 
 <img src="https://github.com/fmm312/fmm312/blob/c5379dd1f90002923061637da5c218eb0357ee71/assets/html.png" alt="drawing" align="left" width="40"/><div style="width:20px;" /><img src="https://github.com/fmm312/fmm312/blob/c5379dd1f90002923061637da5c218eb0357ee71/assets/css.png" align="left" alt="drawing" width="40"/><div style="width:20px;" /><img src="https://github.com/fmm312/fmm312/blob/c5379dd1f90002923061637da5c218eb0357ee71/assets/javascript.png" align="left" alt="drawing" width="40"/><div style="width:20px;" />
 <img src="https://github.com/fmm312/fmm312/blob/c5379dd1f90002923061637da5c218eb0357ee71/assets/react.png" align="left" alt="drawing" width="40"/>
 <div style="width:20px;" /><img src="https://github.com/fmm312/fmm312/blob/c5379dd1f90002923061637da5c218eb0357ee71/assets/typescript.png" align="left" alt="drawing" width="40"/><div style="width:20px;" /><br /><br /><br /><img src="https://github.com/fmm312/fmm312/blob/c5379dd1f90002923061637da5c218eb0357ee71/assets/nodejs.png" align="left" alt="drawing" width="40"/><div style="width:20px;" /><img src="https://github.com/fmm312/fmm312/blob/c5379dd1f90002923061637da5c218eb0357ee71/assets/redux.png" align="left" alt="drawing" width="40"/><img src="https://github.com/fmm312/fmm312/blob/c5379dd1f90002923061637da5c218eb0357ee71/assets/git.png" align="left" alt="drawing" width="40"/><br /><br />
+
 <hr />
-
-<!-- ## Current stack
-
-<img src="https://github.com/fmm312/fmm312/blob/c5379dd1f90002923061637da5c218eb0357ee71/assets/html.png" alt="drawing" align="left" width="40"/><div style="width:20px;" /><img src="https://github.com/fmm312/fmm312/blob/c5379dd1f90002923061637da5c218eb0357ee71/assets/css.png" align="left" alt="drawing" width="40"/><div style="width:20px;" /><img src="https://github.com/fmm312/fmm312/blob/c5379dd1f90002923061637da5c218eb0357ee71/assets/javascript.png" align="left" alt="drawing" width="40"/><div style="width:20px;" />
-<img src="https://github.com/fmm312/fmm312/blob/c5379dd1f90002923061637da5c218eb0357ee71/assets/react.png" align="left" alt="drawing" width="40"/>
-<div style="width:20px;" /><img src="https://github.com/fmm312/fmm312/blob/c5379dd1f90002923061637da5c218eb0357ee71/assets/typescript.png" align="left" alt="drawing" width="40"/><div style="width:20px;" /><div style="width:20px;" /><img src="https://github.com/fmm312/fmm312/blob/6f706dc9bf0b0bdb96fc7dee6e5440e80db422e4/assets/material-ui.png" align="left" alt="drawing" width="40"/><div style="width:20px;" /><br /><br /><br /><img src="https://github.com/fmm312/fmm312/blob/c5379dd1f90002923061637da5c218eb0357ee71/assets/nodejs.png" align="left" alt="drawing" width="40"/><div style="width:20px;" /><img src="https://github.com/fmm312/fmm312/blob/c5379dd1f90002923061637da5c218eb0357ee71/assets/redux.png" align="left" alt="drawing" width="40"/><img src="https://github.com/fmm312/fmm312/blob/c5379dd1f90002923061637da5c218eb0357ee71/assets/git.png" align="left" alt="drawing" width="40"/><br /><br /> -->
 
 
 #### My favorite projects
