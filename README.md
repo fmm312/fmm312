@@ -26,7 +26,7 @@ I'm a guy who loves working with challenging and creative projects. I love to de
 <div>
   <img alt="Night Coding" src="https://github.com/fmm312/fmm312/blob/c5379dd1f90002923061637da5c218eb0357ee71/assets/Night-Coding.gif" align="right"/>
   
-  #### About me:
+  #### A little more about me:
 
 - <span>&#x1f1e7;&#x1f1f7;</span> Fortaleza, Brazil.
 - :computer: I'm a JavaScript enthusiast.
@@ -40,7 +40,7 @@ I'm a guy who loves working with challenging and creative projects. I love to de
 
 <hr />
 
-#### A little more about me...  
+#### My main skills  
 
 ```javascript
 const felipe = {
