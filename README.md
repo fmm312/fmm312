@@ -58,7 +58,7 @@ I'm a guy who loves working with challenging and creative projects. I love to de
 - [My website](https://github.com/fmm312/my-website) - My personal website made with a minimalist design, clean and with animations.
 - [Oceanic](https://github.com/fmm312/oceanic-react-ui) - A Design System for creating UI with ReactJS.
 - [Blog](https://github.com/fmm312/blog) - Front-end blog developed with Next.js and integrated with CMS Strapi.
-- [Purple Haze](https://github.com/fmm312/purple-haze) - A beautiful dark theme for Visual Studio Code.
+<!-- - [Purple Haze](https://github.com/fmm312/purple-haze) - A beautiful dark theme for Visual Studio Code. -->
 
 <!-- - [Oceanic dashboard template](https://github.com/fmm312/oceanic-dashboard-template) - An open source dashboard template made with the Oceanic design system -->
 
