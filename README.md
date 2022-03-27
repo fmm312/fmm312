@@ -33,7 +33,7 @@ I'm a guy who loves working with challenging and creative projects. I love to de
 - :fire: My specialty is Front-end development using React.js
 - :star: Passionate about clean code, usability and UX.
 - :rocket: I also have aptitude for back end development with Node.js
-  <br />
+  <br /> <br />
 </div>
 
 <!-- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fmm312&hide=css" /> -->
