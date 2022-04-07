@@ -56,7 +56,7 @@ const felipe = {
         mobile: {
             js: ["React Native"],
         },
-        misc: ["Firebase", "Websokets", "Storybook", "jQuery", "Sass", "CSS-in-JS", "Jest"]
+        misc: ["Firebase", "Websockets", "Storybook", "jQuery", "Sass", "CSS-in-JS", "Jest"]
     },
     softSkills: ["Responsibility", "Team Work", "Sense of Ownership", "Calm"],
     others: ["Clean Code", "Mobile First", "UX", "Responsiveness", "Agile", "Git"]
