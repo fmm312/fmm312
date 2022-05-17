@@ -32,7 +32,7 @@ I'm a guy who loves working with challenging and creative projects. I love to de
 - :computer: I'm a JavaScript enthusiast.
 - :fire: My specialty is Front-end development using React.js.
 - :star: Passionate about clean code, usability and UX.
-- :rocket: I also have aptitude for back end development with Node.js.
+- :rocket: I am work in the Brazilian fintech SuperSim.
   <br /> <br />
 </div>
 
