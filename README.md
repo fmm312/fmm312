@@ -30,7 +30,7 @@ I'm a guy who loves working with challenging and creative projects. I love to de
 
 - <span>&#x1f1e7;&#x1f1f7;</span> Fortaleza, Brazil.
 - :computer: I'm a JavaScript enthusiast.
-- :fire: My specialty is Front-end development using React.js.
+- :fire: I love working on challenging projects.
 - :star: Passionate about clean code, usability and UX.
 - :rocket: I am work in the Brazilian fintech SuperSim.
   <br /> <br />
