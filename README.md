@@ -14,10 +14,11 @@
 ### Hi there, I'm Felipe :metal:
 I'm a guy who loves working with challenging and creative projects. I love to develop solutions through technology and positively impact people, I am in constant search for best practices and also trying new things.
 
+<--
 <p align="center">
   <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50">
 <img src="https://readme-typing-svg.herokuapp.com?font=monospace&color=00ffd2&size=25&center=true&vCenter=true&lines=A+passionate+learner;Open+source+contributor">
-</p>
+</p>  -->
 
 <!-- ![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
 ![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white) -->
@@ -74,9 +75,10 @@ const felipe = {
 <hr /> -->
 
 
+<!-- 
 #### My favorite projects
 - [My website](https://github.com/fmm312/my-website) - My personal website made with a minimalist design, clean and with animations.
-- [Oceanic](https://github.com/fmm312/oceanic-react-ui) - A Design System for creating UI with ReactJS.
+- [Oceanic](https://github.com/fmm312/oceanic-react-ui) - A Design System for creating UI with ReactJS. -->
 <!-- - [Blog](https://github.com/fmm312/blog) - Front-end blog developed with Next.js and integrated with CMS Strapi. -->
 <!-- - [Purple Haze](https://github.com/fmm312/purple-haze) - A beautiful dark theme for Visual Studio Code. -->
 
@@ -84,8 +86,10 @@ const felipe = {
 
 <hr />
 
+<!--
 #### Blog posts
-- [Princípios de escalabilidade em projetos Front-end](https://medium.com/@fmm312/princ%C3%ADpios-de-escalabilidade-em-projetos-front-end-921d3750939e) (PT-BR :brazil:)
+- [Princípios de escalabilidade em projetos Front-end](https://medium.com/@fmm312/princ%C3%ADpios-de-escalabilidade-em-projetos-front-end-921d3750939e) (PT-BR :brazil:) 
+-->
 
 
 <hr />
