@@ -22,7 +22,7 @@ I'm a guy who loves working with challenging and creative projects. I love to de
 
 <!-- ![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
 ![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white) -->
-<hr />
+<!-- <hr /> -->
 
 <div>
   <img alt="Night Coding" src="https://github.com/fmm312/fmm312/blob/c5379dd1f90002923061637da5c218eb0357ee71/assets/Night-Coding.gif" align="right"/>
@@ -39,7 +39,7 @@ I'm a guy who loves working with challenging and creative projects. I love to de
 
 <!-- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fmm312&hide=css" /> -->
 
-<hr />
+<!-- <hr /> -->
 
 #### My main skills  
 
@@ -63,7 +63,7 @@ const felipe = {
     others: ["Clean Code", "Mobile First", "UX", "Responsiveness", "Agile", "Git"]
 };
 ```
-<hr />
+<!-- <hr /> -->
 
 <!-- 
 #### My main code skills
@@ -91,7 +91,7 @@ const felipe = {
 -->
 
 
-<hr />
+<!-- <hr /> -->
 
 <!--## In my spare time, I'm studying
 
@@ -100,7 +100,7 @@ const felipe = {
 * English language-->
 
 
-#### GitHub Analytics
+<!-- #### GitHub Analytics -->
 
 <p align="left">
 <a href="https://github.com/fmm312">
@@ -109,11 +109,11 @@ const felipe = {
 </a>
 </p>
 
-<hr />
+<!-- <hr /> -->
 
 #### Other networks
 - [Linkedin](https://www.linkedin.com/in/felipemenezesmagalhaes/) - Network where I write about my professional career
 - [Medium](https://medium.com/@fmm312) - Here is where I post my articles
 - [Website](https://felipedeveloper.vercel.app/) - My personal website/portfolio
 
-![Snake animation](https://github.com/oramonviana/oramonviana/blob/output/github-contribution-grid-snake.svg)
+<!-- ![Snake animation](https://github.com/oramonviana/oramonviana/blob/output/github-contribution-grid-snake.svg) -->
