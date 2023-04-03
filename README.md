@@ -25,7 +25,7 @@ I'm a guy who loves working with challenging and creative projects. I love to de
 <!-- <hr /> -->
 
 <div>
-  <img alt="Night Coding" src="https://github.com/fmm312/fmm312/blob/c5379dd1f90002923061637da5c218eb0357ee71/assets/Night-Coding.gif" align="right"/>
+<!--   <img alt="Night Coding" src="https://github.com/fmm312/fmm312/blob/c5379dd1f90002923061637da5c218eb0357ee71/assets/Night-Coding.gif" align="right"/> -->
   
   #### A little more about me:
 
