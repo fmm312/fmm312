@@ -27,7 +27,7 @@ I'm a guy who loves working with challenging and creative projects. I love to de
 <div>
 <!--   <img alt="Night Coding" src="https://github.com/fmm312/fmm312/blob/c5379dd1f90002923061637da5c218eb0357ee71/assets/Night-Coding.gif" align="right"/> -->
   
-  #### A little more about me:
+### A little more about me
 
 - <span>&#x1f1e7;&#x1f1f7;</span> Fortaleza, Brazil.
 - :fire: Software developer since 2017.
@@ -41,7 +41,7 @@ I'm a guy who loves working with challenging and creative projects. I love to de
 
 <!-- <hr /> -->
 
-#### My main skills  
+### My main skills  
 
 ```javascript
 const felipe = {
@@ -111,7 +111,7 @@ const felipe = {
 
 <!-- <hr /> -->
 
-#### Other networks
+### Other networks
 - [Linkedin](https://www.linkedin.com/in/felipemenezesmagalhaes/) - Network where I write about my professional career
 - [Medium](https://medium.com/@fmm312) - Here is where I post my articles
 - [Website](https://felipedeveloper.vercel.app/) - My personal website/portfolio
