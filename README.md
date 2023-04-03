@@ -14,7 +14,7 @@
 ### Hi there, I'm Felipe :metal:
 I'm a guy who loves working with challenging and creative projects. I love to develop solutions through technology and positively impact people, I am in constant search for best practices and also trying new things.
 
-<--
+<!--
 <p align="center">
   <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50">
 <img src="https://readme-typing-svg.herokuapp.com?font=monospace&color=00ffd2&size=25&center=true&vCenter=true&lines=A+passionate+learner;Open+source+contributor">
@@ -84,7 +84,6 @@ const felipe = {
 
 <!-- - [Oceanic dashboard template](https://github.com/fmm312/oceanic-dashboard-template) - An open source dashboard template made with the Oceanic design system -->
 
-<hr />
 
 <!--
 #### Blog posts
