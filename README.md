@@ -117,3 +117,6 @@ const felipe = {
 - [Website](https://felipedeveloper.vercel.app/) - My personal website/portfolio
 
 <!-- ![Snake animation](https://github.com/oramonviana/oramonviana/blob/output/github-contribution-grid-snake.svg) -->
+
+![GitHub Snake Light](https://github.com/jsdaniell/jsdaniell/blob/output/github-snake.svg#gh-light-mode-only)
+![GitHub Snake dark](https://github.com/jsdaniell/jsdaniell/blob/output/github-snake-dark.svg#gh-dark-mode-only)
