@@ -100,7 +100,7 @@ const felipe = {
 * English language-->
 
 
-<!-- #### GitHub Analytics -->
+### GitHub Analytics
 
 <p align="left">
 <a href="https://github.com/fmm312">
