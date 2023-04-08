@@ -31,7 +31,7 @@ I'm a guy who loves working with challenging and creative projects. I love to de
 
 - <span>&#x1f1e7;&#x1f1f7;</span> Fortaleza, Brazil.
 - :fire: Software developer since 2017.
-- :computer: JavaScript enthusiast.
+- :computer: Currently working with React.js and Spring.
 - :star: Passionate about clean code, usability and UX.
 - :rocket: I am work in the Brazilian fintech SuperSim.
   <br /> <br />
