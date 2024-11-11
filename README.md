@@ -33,7 +33,7 @@ I'm a guy who loves working with challenging and creative projects. I love to de
 - :fire: Software developer since 2017.
 - :computer: Currently working with React.js and Spring.
 - :star: Passionate about Software Architecture.
-- :rocket: I am work in the Brazilian fintech SuperSim.
+- :rocket: Always studying and evolving!
   <br /> <br />
 </div>
 
@@ -101,7 +101,7 @@ const felipe = {
 * English language-->
 
 
-### GitHub Analytics
+<!--### GitHub Analytics-->
 
 <p align="left">
 <a href="https://github.com/fmm312">
@@ -115,7 +115,7 @@ const felipe = {
 <!--### Other networks
 - [Linkedin](https://www.linkedin.com/in/felipemenezesmagalhaes/) - Network where I write about my professional career
 - [Medium](https://medium.com/@fmm312) - Here is where I post my articles
-- [Website](https://felipedeveloper.vercel.app/) - My personal website/portfolio
+- [Website](https://felipedeveloper.vercel.app/) - My personal website/portfolio-->
 
 ![GitHub Snake Light](https://github.com/jsdaniell/jsdaniell/blob/output/github-snake.svg#gh-light-mode-only)
-![GitHub Snake dark](https://github.com/jsdaniell/jsdaniell/blob/output/github-snake-dark.svg#gh-dark-mode-only)-->
+![GitHub Snake dark](https://github.com/jsdaniell/jsdaniell/blob/output/github-snake-dark.svg#gh-dark-mode-only)
