@@ -112,10 +112,10 @@ const felipe = {
 
 <!-- <hr /> -->
 
-### Other networks
+<!--### Other networks
 - [Linkedin](https://www.linkedin.com/in/felipemenezesmagalhaes/) - Network where I write about my professional career
 - [Medium](https://medium.com/@fmm312) - Here is where I post my articles
 - [Website](https://felipedeveloper.vercel.app/) - My personal website/portfolio
 
 ![GitHub Snake Light](https://github.com/jsdaniell/jsdaniell/blob/output/github-snake.svg#gh-light-mode-only)
-![GitHub Snake dark](https://github.com/jsdaniell/jsdaniell/blob/output/github-snake-dark.svg#gh-dark-mode-only)
+![GitHub Snake dark](https://github.com/jsdaniell/jsdaniell/blob/output/github-snake-dark.svg#gh-dark-mode-only)-->
