@@ -32,7 +32,7 @@ I'm a guy who loves working with challenging and creative projects. I love to de
 - <span>&#x1f1e7;&#x1f1f7;</span> Fortaleza, Brazil.
 - :fire: Software developer since 2017.
 - :computer: Currently working with React.js and Spring.
-- :star: Passionate about clean code, usability and UX.
+- :star: Passionate about Software Architecture.
 - :rocket: I am work in the Brazilian fintech SuperSim.
   <br /> <br />
 </div>
@@ -41,7 +41,7 @@ I'm a guy who loves working with challenging and creative projects. I love to de
 
 <!-- <hr /> -->
 
-### My main skills  
+<!-- ### My main skills  
 
 ```javascript
 const felipe = {
@@ -62,7 +62,8 @@ const felipe = {
     softSkills: ["Responsibility", "Team Work", "Sense of Ownership", "Calm"],
     others: ["Clean Code", "Mobile First", "UX", "Responsiveness", "Agile", "Git"]
 };
-```
+```-->
+
 <!-- <hr /> -->
 
 <!-- 
